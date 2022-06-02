@@ -12,10 +12,15 @@ Learn more about Juypter [here](https://jupyter.org/)
 ## Table of Contents
 
 [Regression Algorithms](https://github.com/Michaelgathara/simple-ml/tree/main/regression)
+<br>
 1. [Linear Regression](https://github.com/Michaelgathara/simple-ml/blob/main/regression/linear_regression.ipynb)
+	<br>
 	1a.  **Dataset**: [Tesla Stock Data](https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020?resource=download)
+	<br>
 	1b. **Attempt**: Predicting daily highs 
+	<br>
 	1c. **Result**: Model Score: $$R^2 = 0.999803851997443$$
+	<br>
 	1d. **Usefulness**: Little to no usefulness due to the enigmatic nature of the stock market
 
 ## Datasets
