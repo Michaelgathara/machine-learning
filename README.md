@@ -3,11 +3,11 @@
 <hr>
 Built using Python 3.8 and Juyper Notebook.
 <br>
-Package Manager: [Pip](https://pip.pypa.io/en/stable/) 
+Package Manager: https://pip.pypa.io/en/stable/ 
 <br>
-Get Python [here](https://www.python.org/)
+Get Python https://www.python.org
 <br>
-Learn more about Juypter [here](https://jupyter.org/)
+Learn more about Juypter https://jupyter.org/
 
 ## Table of Contents
 
