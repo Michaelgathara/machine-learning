@@ -16,7 +16,7 @@ I am also looking into Conda environments.
 
 [Reference Notebooks](https://github.com/Michaelgathara/machine-learning/tree/main/reference-notebooks)
 <br>
-Reference Notebooks are Data Science/Machine Learning Juypter Noteboooks I was provided during my internship with the University of Alabama Department of Physics and The Economic Development Partnership of Alabama. They cover some basics such as data cleaning and Pandas, as well as intermediate topics such as model validation.  
+Reference Notebooks are Data Science/Machine Learning Juypter Noteboooks I was provided during my internship with the [University of Alabama Department of Physics](https://www.uab.edu/cas/physics/) and [The Economic Development Partnership of Alabama](https://edpa.org/). They cover some basics such as data cleaning and Pandas, as well as intermediate topics such as model validation.  
 <br>
 [Regression Algorithms](https://github.com/Michaelgathara/simple-ml/tree/main/regression)
 <br>
@@ -33,9 +33,9 @@ Reference Notebooks are Data Science/Machine Learning Juypter Noteboooks I was p
 
 ## Datasets
 [Kaggle](https://www.kaggle.com/)
-<br>
-The datasets used within the reference notebooks is properitary and private data as it is student data. 
-<br>
 
 ## References
 [Andrew Ng x Standford University Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+<br>
+<br>
+[Reference Notebooks](https://github.com/Michaelgathara/machine-learning/tree/main/reference-notebooks)
