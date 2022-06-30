@@ -12,6 +12,8 @@ Learn more about Juypter https://jupyter.org/
 I am also looking into Conda environments. 
 <br>
 
+## Other works
+You can find some group projects I did with friends under the Github Organization [Computer Talkers](https://github.com/Computer-Talkers)
 ## Table of Contents
 
 [Reference Notebooks](https://github.com/Michaelgathara/machine-learning/tree/main/reference-notebooks)
