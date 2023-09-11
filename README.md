@@ -15,6 +15,7 @@ There are some uses of Conda environments here and there as well
 ## Other works
 - You can find some group projects I did with friends under the Github Organization [Computer Talkers](https://github.com/Computer-Talkers)
 - I wrote a Neural Network from scratch for both GPUs and CPUs [here](https://github.com/Michaelgathara/GPU)
+- Notebooks my team at the Economic Development Partnership of Alabama used to analyze where students were going post-grad from Alabama colleges [here](https://github.com/MCDC-Team-4/retain-alabama)
 ## Table of Contents
 
 [Reference Notebooks](https://github.com/Michaelgathara/machine-learning/tree/main/reference-notebooks)
