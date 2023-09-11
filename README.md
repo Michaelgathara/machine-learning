@@ -9,11 +9,12 @@ Get Python https://www.python.org
 <br>
 Learn more about Juypter https://jupyter.org/
 <br>
-I am also looking into Conda environments. 
+There are some uses of Conda environments here and there as well
 <br>
 
 ## Other works
 You can find some group projects I did with friends under the Github Organization [Computer Talkers](https://github.com/Computer-Talkers)
+I wrote a Neural Network from scratch for both GPUs and CPUs [here](https://github.com/Michaelgathara/GPU)
 ## Table of Contents
 
 [Reference Notebooks](https://github.com/Michaelgathara/machine-learning/tree/main/reference-notebooks)
@@ -28,7 +29,7 @@ Reference Notebooks are Data Science/Machine Learning Juypter Noteboooks I was p
 	<br>
 	1b. **Attempt**: Predicting daily highs 
 	<br>
-	1c. **Result**: Model Score: $$R^2 = 0.999803851997443$$
+	1c. **Result**: Model Score: $$R^2 = 0.999803851997443$$ -Highly inflated, may be overfitted here
 	<br>
 	1d. **Usefulness**: Little to no usefulness due to the enigmatic nature of the stock market
 <br>
