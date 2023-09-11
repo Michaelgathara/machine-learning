@@ -1,5 +1,5 @@
 
-# My journey to learn Machine Learning
+# Machine Learning
 <hr>
 Built using Python 3.8 and Juyper Notebook.
 <br>
